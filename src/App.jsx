@@ -24,16 +24,16 @@ export default function App() {
       <Suspense fallback={<div>Loading...</div>}>
         <Routes>
           <Route path="/lazyloading" element={<Home />} />
-          <Route path="/Page1" element={<Page1 />} />
-          <Route path="/Page2" element={<Page2 />} />
-          <Route path="/Page3" element={<Page3 />} />
-          <Route path="/Page4" element={<Page4 />} />
-          <Route path="/Page5" element={<Page5 />} />
-          <Route path="/Page6" element={<Page6 />} />
-          <Route path="/Page7" element={<Page7 />} />
-          <Route path="/Page8" element={<Page8 />} />
-          <Route path="/Page9" element={<Page9 />} />
-          <Route path="/Page10" element={<Page10 />} />
+          <Route path="/lazyloading/Page1" element={<Page1 />} />
+          <Route path="/lazyloading/Page2" element={<Page2 />} />
+          <Route path="/lazyloading/Page3" element={<Page3 />} />
+          <Route path="/lazyloading/Page4" element={<Page4 />} />
+          <Route path="/lazyloading/Page5" element={<Page5 />} />
+          <Route path="/lazyloading/Page6" element={<Page6 />} />
+          <Route path="/lazyloading/Page7" element={<Page7 />} />
+          <Route path="/lazyloading/Page8" element={<Page8 />} />
+          <Route path="/lazyloading/Page9" element={<Page9 />} />
+          <Route path="/lazyloading/Page10" element={<Page10 />} />
         </Routes>
       </Suspense>
     </div>
