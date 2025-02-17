@@ -1,1 +1,0 @@
-import{j as i}from"./index-DcVaGz34.js";function t(){return i.jsx("div",{children:i.jsx("p",{children:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate ullam ab temporibus delectus eveniet, repellat nam similique in. Maxime at minus culpa ut? Fuga architecto doloremque similique, sint quibusdam laboriosam."})})}export{t as default};
