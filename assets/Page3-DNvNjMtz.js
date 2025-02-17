@@ -1,1 +1,0 @@
-import{j as i}from"./index-Cwq8NNsh.js";function t(){return i.jsx("div",{children:i.jsx("p",{children:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga voluptatem velit illum, officia et exercitationem in similique minima dignissimos quibusdam repudiandae nihil molestias cupiditate illo sequi ipsum aliquam autem hic!"})})}export{t as default};

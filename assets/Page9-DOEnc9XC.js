@@ -1,1 +1,0 @@
-import{j as i}from"./index-Cwq8NNsh.js";function t(){return i.jsx("div",{children:i.jsx("p",{children:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime repellat suscipit a ipsum eius illum, alias obcaecati molestias illo, provident ex impedit facere debitis pariatur? Quasi animi quos distinctio amet?"})})}export{t as default};

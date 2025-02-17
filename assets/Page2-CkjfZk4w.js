@@ -1,0 +1,1 @@
+import{j as i}from"./index-DS-DBXmm.js";function r(){return i.jsx("div",{children:i.jsx("p",{children:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, dicta id consectetur, eveniet aspernatur ex eligendi, iusto quam dolorum perspiciatis corporis hic suscipit repellat reiciendis alias! Exercitationem porro placeat asperiores."})})}export{r as default};
