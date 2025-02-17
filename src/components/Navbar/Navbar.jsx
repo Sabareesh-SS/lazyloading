@@ -4,7 +4,7 @@ import "./Navbar.css"
 function Navbar() {
   return (
     <nav>
-      <a href="/">Home</a>
+      <a href="/lazyloading">Home</a>
       <a href="/lazyloading/Page1">Page 1</a>
       <a href="/lazyloading/Page2">Page 2</a>
       <a href="/lazyloading/Page3">Page 3</a>
