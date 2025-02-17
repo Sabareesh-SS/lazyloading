@@ -1,0 +1,1 @@
+import{j as e}from"./index-D6TqLaSH.js";function t(){return e.jsx("div",{children:e.jsx("p",{children:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur omnis porro deserunt, eos, amet eaque rerum ipsum nulla harum esse quod fugit molestiae cupiditate autem libero impedit eum, temporibus beatae."})})}export{t as default};
